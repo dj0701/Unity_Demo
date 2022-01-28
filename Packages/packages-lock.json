@@ -46,6 +46,13 @@
       "dependencies": {},
       "url": "https://packages.unity.cn"
     },
+    "com.unity.inputsystem": {
+      "version": "1.0.2",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.cn"
+    },
     "com.unity.probuilder": {
       "version": "5.0.3",
       "depth": 0,

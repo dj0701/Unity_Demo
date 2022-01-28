@@ -13,7 +13,7 @@ namespace Animancer.Examples.Basics
     /// https://kybernetik.com.au/animancer/api/Animancer.Examples.Basics/PlayAnimationOnClick
     /// 
     [AddComponentMenu(Strings.ExamplesMenuPrefix + "Basics - Play Animation On Click")]
-    [HelpURL(Strings.DocsURLs.ExampleAPIDocumentation + nameof(Basics) + "/" + nameof(PlayAnimationOnClick))]   
+    [HelpURL(Strings.DocsURLs.ExampleAPIDocumentation + nameof(Basics) + "/" + nameof(PlayAnimationOnClick))]
     public sealed class PlayAnimationOnClick : MonoBehaviour
     {
         /************************************************************************************************************************/
@@ -48,7 +48,7 @@ namespace Animancer.Examples.Basics
 
                 // The Play method returns the AnimancerState which manages that animation so you can access and
                 // control various details, for example:
-                 //state.Time = 1;// Skip 1 second into the animation.
+                //state.Time = 1;// Skip 1 second into the animation.
                 // state.NormalizedTime = 0.5f;// Skip halfway into the animation.
                 // state.Speed = 2;// Play the animation twice as fast.
 
